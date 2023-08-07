@@ -254,6 +254,19 @@ footer {
   padding-right: 200px;
   flex: 1;
 }
+
+.footer-text-mid {
+  color: rgb(155, 155, 155);
+  margin: 0;
+  text-align: center;
+  font-weight: 500;
+  font-size: 10px;
+  margin-right: -75px;
+  cursor: default;
+  user-select: none;
+  flex: 1;
+}
+
 .footer-email {
   color: var(--lightblue1);
   text-decoration: underline;
